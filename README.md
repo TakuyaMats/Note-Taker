@@ -53,7 +53,7 @@ THEN I am taken to the corresponding section of the README
 
 ## 4. License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://github.com/TakuyaMats/Note-Taker.git)
 
 MIT License
 
