@@ -25,7 +25,7 @@ SO THAT I can quickly create a professional README for a new project
 
 ![Note-Page](./images/note-taker.png "Note-Page")
 
-[github repository site] https://github.com/TakuyaMats/professional-README-generator.git
+[github repository site] https://github.com/TakuyaMats/Note-Taker.git
 
 <a name="usage"></a>
 
@@ -53,7 +53,7 @@ THEN I am taken to the corresponding section of the README
 
 ## 4. License
 
-[![License: MIT](https://github.com/TakuyaMats/Note-Taker.git)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 MIT License
 
