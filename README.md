@@ -19,7 +19,7 @@ SO THAT I can quickly create a professional README for a new project
 
 <a name="web-address"></a>
 
-## 2. Site Links & Video Demonstration
+## 2. Site Page
 
 ![Front-Page](./images/home-page.png "Front-Page")
 
