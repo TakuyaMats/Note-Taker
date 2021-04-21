@@ -27,6 +27,8 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 [github repository site] https://github.com/TakuyaMats/Note-Taker.git
 
+[heroku app site] https://secret-chamber-88167.herokuapp.com/
+
 <a name="usage"></a>
 
 ## 3. Usage Tips
