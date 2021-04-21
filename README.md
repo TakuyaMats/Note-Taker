@@ -15,7 +15,7 @@ I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
 ```
 
-### This is Takuya Matsumoto's Professional-Readme-Generator
+### This is Takuya Matsumoto's Note-Taker Application
 
 <a name="web-address"></a>
 
